@@ -211,7 +211,7 @@ This sample requires a device with an A12 bionic chip running iOS 13 or above.
 
 ### Body Tracking 3D
 
-This sample demonstrates 3D world space body tracking. A 3D skeleton is generated when a person is detected. See the [`HumanBodyTracker.cs`](https://github.com/Unity-Technologies/arfoundation-samples/blob/master/Assets/Scripts/HumanBodyTracker.cs) script.
+This sample demonstrates 3D world space body tracking. A 3D skeleton is generated when a person is detected. See the [`HumanBodyTracker.cs`](https://github.com/Unity-Technologies/arfoundation-samples/blob/main/Assets/Scripts/Runtime/HumanBodyTracker.cs) script.
 
 This sample requires a device with an A12 bionic chip running iOS 13 or above.
 
